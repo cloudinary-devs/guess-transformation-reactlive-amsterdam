@@ -9,19 +9,7 @@ description: >-
 
 ### Challenge Image \(**URL = ???**\): <a id="challenge-image-url"></a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![Challenge Image](.gitbook/assets/starry-night-2.jpg)
 
 ## Submit your details and your guess of the challenge URL into the form provided here: [Submit Your Guess Here!](https://docs.google.com/forms/d/e/1FAIpQLSc10MjayxRtIqQzi3Fo5d8QREKSPqV9Q1Ts3GFMQq4PjZcDww/viewform)
 
